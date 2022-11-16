@@ -20,6 +20,7 @@ The  frontend code is attached and structured in their respective folders. Furth
 <br></br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/115737287/195679072-ecbde255-9023-4f10-a481-01134ab139b5.png" width="260" height="538"/>&nbsp;<img src="https://user-images.githubusercontent.com/115737287/195679246-b7212300-0eb1-47d8-97b3-4bd8af495adf.png" width="260" height="538"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/115737287/195679246-b7212300-0eb1-47d8-97b3-4bd8af495adf.png" width="260" height="538"/><br></br>
+<img src="https://user-images.githubusercontent.com/115737287/202253843-7848813b-bc5e-4bdb-8415-68865ed51932.png" width="260" height="538"/<br></br>
 
 ## 🚀 Technologies
 
