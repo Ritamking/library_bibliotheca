@@ -1,12 +1,12 @@
-# Libreasy - A library management app
+# Bibliotheca - Veni.Vedi.Legi
 
-Libreasy is an app made with **Flutter** framework and **Oracle** backend along with **ORDS** for API.
+Bibliotheca is an app made with **Flutter** framework 
 <br>
 
-It provides book borrowing and library information services to members. It is also used to assist the librarian in maintaining the book catalogue and in book-keeping of fines.
+It provides library information services to members. It is also used to assist the librarian in maintaining the book catalogue and in book-keeping of fines.
 <br>
 
-The backend and frontend code is attached and structured in their respective folders. Further instructions are also found inside those folders.
+The  frontend code is attached and structured in their respective folders. Further instructions are also found inside those folders.
 
 ## Features
 
@@ -14,20 +14,12 @@ The backend and frontend code is attached and structured in their respective fol
   - All book listings by genres.
   - Author and book reviews and ratings.
   - Availability of books for borrow.
-  - Borrowing books if available.
   - Summary of book/member borrows
   - Member accounts and profile.
 
-<div align="center"><kbd><img alt="App Tour" src="Readme_files/app_tour.gif" width="260" height="538" style="border-style: solid; border-color: #FFFFFF; border-width:1px;"/></kbd></div>
 <br></br>
 <div align="center">
-<img src="Readme_files/scr1.jpeg" width="260" height="538"/>&nbsp;<img src="Readme_files/scr2.jpeg" width="260" height="538"/>&nbsp;&nbsp;<img src="Readme_files/scr3.jpeg" width="260" height="538"/><br></br>
-<img src="Readme_files/scr4.jpeg" width="260" height="538"/><img src="Readme_files/scr5.jpeg" width="260" height="538"/>&nbsp;&nbsp;<img src="Readme_files/scr6.jpeg" width="260" height="538"/><br></br>
-<img src="Readme_files/scr7.jpeg" width="260" height="538"/><img src="Readme_files/scr8.jpeg" width="260" height="538"/>&nbsp;&nbsp;<img src="Readme_files/scr9.jpeg" width="260" height="538"/><br></br>
-<img src="Readme_files/scr10.jpeg" width="260" height="538"/><br></br>
-</div>
-
-*Feel free to fork and contribute to include new features.* ❤︎
+<img src="https://user-images.githubusercontent.com/115737287/195679072-ecbde255-9023-4f10-a481-01134ab139b5.png" width="260" height="538"/>&nbsp;<img src="https://user-images.githubusercontent.com/115737287/195679246-b7212300-0eb1-47d8-97b3-4bd8af495adf.png" width="260" height="538"/>&nbsp;&nbsp;<img src="" width="260" height="538"/><br></br>
 
 ## 🚀 Technologies
 
